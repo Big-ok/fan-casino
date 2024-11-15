@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /503/
+Disallow: /404/
+Sitemap: http://agent002/sitemap.xml
